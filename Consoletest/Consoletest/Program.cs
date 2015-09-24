@@ -20,7 +20,9 @@ namespace Consoletest
             else
             {
                 Console.WriteLine("HaHa! Jag visste det!");
-                Console.ReadKey();
+                Console.WriteLine("Victria- Sankar Pontus... Måste fixa så att han kommer hit snart igen ;)");
+
+
             }
         }
     }
