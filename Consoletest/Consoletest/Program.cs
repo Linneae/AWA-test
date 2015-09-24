@@ -12,18 +12,19 @@ namespace Consoletest
         {
             //Tjena viktoria och Cecilia här har jag ändrat koden och skrivit en kommentar %
             Console.WriteLine("Vem är snyggast Pontus eller anton? svara [A] [P]");
-            if (Console.ReadLine() == "A")
-            {
-                Console.WriteLine("Tror jag inte på att du tycker!");
-                Console.ReadKey();
-            }
-            else
-            {
-                Console.WriteLine("HaHa! Jag visste det!");
+                if (Console.ReadLine() == "A")
+                {
+                    Console.WriteLine("Tror jag inte på att du tycker!");
+                    Console.ReadKey();
+                }
+                else
+                {
+                    Console.WriteLine("HaHa! Jag visste det!");
                 Console.WriteLine("Victria- Sankar Pontus... Måste fixa så att han kommer hit snart igen ;)");
 
 
-            }
+                Console.ReadKey();
+                }
         }
     }
 }
