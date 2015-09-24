@@ -20,10 +20,15 @@ namespace Consoletest
             else
             {
                 Console.WriteLine("HaHa! Jag visste det!");
-                Console.WriteLine("Victria- Sankar Pontus... Måste fixa så att han kommer hit snart igen ;)");
-
-
+                Console.WriteLine("Victria- Saknar Pontus... Måste fixa så att han kommer hit snart igen ;)");
             }
+
+
+        }
+
+        
+        
+
         }
     }
-}
+
